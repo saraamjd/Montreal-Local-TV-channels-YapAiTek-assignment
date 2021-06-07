@@ -1,4 +1,4 @@
-## Montreal-Local-TV-channels-YapAiTek-assignment!
+## Montreal-Local-TV-channels-YapAiTek-assignment
 This project is a Regression Supervised Learning method for Montral Local TV Channels dataset.
 We aim to develope a model that predict Market Share_total for the next season based on the training dataset.
 For preprocessing, first we have to find the null values and drop them.
